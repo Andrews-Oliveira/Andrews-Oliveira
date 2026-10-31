@@ -68,46 +68,30 @@ Gosto de transformar problemas técnicos em soluções utilizáveis — da anál
 <table>
 <tr>
 <td width="50%" valign="top">
-
-#### 🔧 PROCAR — Gestão de oficinas
-Sistema full stack desenvolvido para uma oficina real: clientes, veículos, orçamentos, ordens de serviço, inspeções, pagamentos e estoque.
-
-`Angular` `Django REST` `PostgreSQL` `Docker`
-
-**[▶ Testar demonstração](https://procar-portfolio-demo.vercel.app/)** · [Estudo de caso](https://andrews-viana-portfolio.vercel.app/case/procar)
-
+<h3>🔧 PROCAR — Gestão de oficinas</h3>
+<p>Sistema full stack desenvolvido para uma oficina real: clientes, veículos, orçamentos, ordens de serviço, inspeções, pagamentos e estoque.</p>
+<p><code>Angular</code> <code>Django REST</code> <code>PostgreSQL</code> <code>Docker</code></p>
+<p><a href="https://procar-portfolio-demo.vercel.app/"><strong>▶ Testar demonstração</strong></a> · <a href="https://andrews-viana-portfolio.vercel.app/case/procar">Estudo de caso</a></p>
 </td>
 <td width="50%" valign="top">
-
-#### 🤖 FOTA AI Agent
-Ferramenta de apoio à leitura de commits e diffs, organização de mudanças, riscos, impacto e checklist para QA.
-
-`Python` `Django` `LLMs` `Git`
-
-**[▶ Testar demonstração](https://fota-engineering-suite-demo.vercel.app/fota-ai-agent/)** · [Estudo de caso](https://andrews-viana-portfolio.vercel.app/case/fota-ai-agent)
-
+<h3>🤖 FOTA AI Agent</h3>
+<p>Ferramenta de apoio à leitura de commits e diffs, organização de mudanças, riscos, impacto e checklist para QA.</p>
+<p><code>Python</code> <code>Django</code> <code>LLMs</code> <code>Git</code></p>
+<p><a href="https://fota-engineering-suite-demo.vercel.app/fota-ai-agent/"><strong>▶ Testar demonstração</strong></a> · <a href="https://andrews-viana-portfolio.vercel.app/case/fota-ai-agent">Estudo de caso</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-#### 🔍 FOTA Log Analyzer
-Análise técnica de logs de atualização OTA/FOTA, com evidências e hipóteses para investigação de falhas.
-
-`Python` `Django` `Logs` `Debugging`
-
-**[▶ Testar demonstração](https://fota-engineering-suite-demo.vercel.app/fota-log-analyzer/)** · [Estudo de caso](https://andrews-viana-portfolio.vercel.app/case/fota-log-analyzer)
-
+<h3>🔍 FOTA Log Analyzer</h3>
+<p>Análise técnica de logs de atualização OTA/FOTA, com evidências e hipóteses para investigação de falhas.</p>
+<p><code>Python</code> <code>Django</code> <code>Logs</code> <code>Debugging</code></p>
+<p><a href="https://fota-engineering-suite-demo.vercel.app/fota-log-analyzer/"><strong>▶ Testar demonstração</strong></a> · <a href="https://andrews-viana-portfolio.vercel.app/case/fota-log-analyzer">Estudo de caso</a></p>
 </td>
 <td width="50%" valign="top">
-
-#### ✨ GenAI Engineering Studio
-Laboratório independente com interface Angular para experimentar análise de commits e logs com entradas sintéticas.
-
-`Angular` `TypeScript` `IA aplicada`
-
-**[▶ Abrir laboratório](https://andrews-viana-portfolio.vercel.app/workspace)** · [Portfólio](https://andrews-viana-portfolio.vercel.app/)
-
+<h3>✨ GenAI Engineering Studio</h3>
+<p>Laboratório independente com interface Angular para experimentar análise de commits e logs com entradas sintéticas.</p>
+<p><code>Angular</code> <code>TypeScript</code> <code>IA aplicada</code></p>
+<p><a href="https://andrews-viana-portfolio.vercel.app/workspace"><strong>▶ Abrir laboratório</strong></a> · <a href="https://andrews-viana-portfolio.vercel.app/">Portfólio</a></p>
 </td>
 </tr>
 </table>
