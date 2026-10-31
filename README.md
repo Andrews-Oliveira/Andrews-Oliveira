@@ -38,9 +38,23 @@ Gosto de transformar problemas técnicos em soluções utilizáveis — da anál
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postman,vscode&amp;theme=dark&amp;perline=8" alt="Docker, Kubernetes, AWS, Postman e Visual Studio Code"/>
 
-**IA generativa:** `Gemini` · `Ollama` · `Qwen` · `Prompt Engineering` · `Integração de LLMs`
+**IA generativa e desenvolvimento assistido por IA**
 
-<sub>Competências adquiridas no trabalho, em projetos independentes e em estudos; Spring Boot está entre os conhecimentos em desenvolvimento.</sub>
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-181717?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/codex/)
+[![Claude](https://img.shields.io/badge/Claude_Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
+[![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
+
+`Codex` · `Claude / Claude Code` · `Gemini` · `Ollama` · `Qwen` · `Prompt Engineering` · `Integração de LLMs`
+
+**Cloud, deploy e infraestrutura**
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Render](https://img.shields.io/badge/Render-111111?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+
+`AWS` · `Vercel` · `Render` · `Docker` · `Kubernetes`
+
+<sub>Ferramentas e plataformas conhecidas em diferentes contextos de trabalho, projetos e estudos; isso não representa o mesmo nível de experiência em todas elas. Spring Boot está entre os conhecimentos em desenvolvimento.</sub>
 
 </div>
 
